@@ -1,0 +1,25 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:20%;
+    border-radius: 50%;
+   
+}
+.mid{
+    background-color:#27408B;
+    color:white;
+    align-items:center;
+    font-family: 'Signika', sans-serif;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
